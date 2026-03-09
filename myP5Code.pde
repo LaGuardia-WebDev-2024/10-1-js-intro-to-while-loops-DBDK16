@@ -16,3 +16,13 @@ setup = function() {
   text(x+350, x+350, 20);
 };
 
+fill(120, 9, 148);
+var message = "Loops are REALLY awesome!??";
+
+text(message, 30, 40);
+text(message, 30, 40);
+
+while(){
+  test(message, 30, y);
+  y += 20;
+}
